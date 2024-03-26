@@ -1,4 +1,4 @@
-### This is just to show basic use of Github. 
+### Aspiring Full Stack Web Developer
 
 <!--
 **DannyCastle1/DannyCastle1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
